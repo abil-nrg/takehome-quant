@@ -7,3 +7,4 @@ python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
 ```
+The report is in the root directory, named REPORT.pdf
